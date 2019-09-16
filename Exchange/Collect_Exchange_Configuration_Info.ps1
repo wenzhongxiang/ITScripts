@@ -5,7 +5,7 @@ Script Authors: wenzhongxiang
 Version Control: 1.1
 Script Usage: Collect Exchange configuration information.
 Script Example:
-Start-Transcript
+Start-Transcript example
 #>
 
 Start-Transcript C:\ExchangeEnvironmentBackup.txt
