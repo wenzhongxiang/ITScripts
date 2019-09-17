@@ -5,6 +5,7 @@ Multiple product lines involving Microsoft infrastructure:<br>
 AD, Exchange, System Center, DHCP, NPS, WSUS, KMS, WDS, MDT, etc.;<br> 
 Simple daily operation, operation and maintenance, change, optimization, etc. <br> 
 If there are any shortcomings, please correct me in time, thank you...<br> 
+[My_Blog](https://blog.51cto.com/wenzhongxiang)  <br>
 <br>
 [中文]<br>
 常用的PS脚本内容等<br>
