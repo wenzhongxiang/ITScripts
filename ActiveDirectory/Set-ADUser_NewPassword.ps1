@@ -20,7 +20,7 @@ Get-ADUser -Filter * -Properties * -SearchBase "OU=Staff,DC=azureyun,DC=com" |Se
 #2.通过命令或Excel生成随机密码并完善CSV Password字段
 #3.批量重置域账号密码为对应随机密码
 ##################################################
-$userinfo = Import-Csv -Path "C:\wen\Staffuserspwd.csv" -Encoding Default -UseCulture 
+$userinfo = Import-Csv -Path "C:\wen\Set-ADUser_NewPassword_CSV.csv" -Encoding Default -UseCulture 
 foreach ($user in $userinfo)
 {
 $sam=$user.samaccountname
